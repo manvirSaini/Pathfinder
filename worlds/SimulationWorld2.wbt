@@ -1,0 +1,411 @@
+#VRML_SIM R2021a utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation -0.9997924319679696 0.015557855669068693 -0.013154699029365339 1.5503475832446667
+  position 0.5168069634847665 18.192500082507262 0.39123733120413906
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 10 10
+  floorTileSize 2 2
+}
+Solid {
+  translation -1.49 0 2.49
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(18)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation 2.52 0 0.47
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(17)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation -0.5 0 0.47
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(16)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation -1.5 0 -0.52
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(15)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation -1.5 0 0.47
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(14)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation -3.5 0 0.49
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(10)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation 0.53 0 -2.51
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(3)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation 0.53 0 -3.51
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(13)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation -1.49 0 4.49
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(8)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation 4.45 0 2.47
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(7)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation 3.45 0 2.46
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(6)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation 1.51 0 3.49
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(5)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation 1.51 0 2.5
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(4)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation -3.5 0 2.45
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(1)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation -3.51 0 1.47
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(11)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation 0.52 0 -4.51
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(12)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation -1.5 0 -1.52
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(9)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
+Solid {
+  translation -4.5 0 -2.5
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.1 0.7 0.1
+        }
+      }
+      geometry Box {
+        size 1 0.01 1
+      }
+    }
+  ]
+}
+Create {
+  translation 4.49 0.044 4.54
+  controller "aStar_algo"
+}
+Solid {
+  translation 4.5 0 4.5
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.2 0.1 1
+        }
+      }
+      geometry Box {
+        size 1 0.01 1
+      }
+    }
+  ]
+  name "Start"
+}
+Solid {
+  translation 1.53 0 0.47
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.3 0.3 0.3
+          emissiveColor 0.3 0.3 0.5
+        }
+      }
+      geometry Box {
+        size 1 1 1
+      }
+    }
+  ]
+  name "solid(2)"
+  boundingObject Box {
+    size 1 1 1
+  }
+}
