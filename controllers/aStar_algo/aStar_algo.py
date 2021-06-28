@@ -17,7 +17,6 @@ from board_controller import Board_controller
 # mark the path along the way until the target is met; since the board
 # controller class is handling the movement of the robot.
 
-# Last modified: March 27, 2021
 class A_star:
     
     rumba = Rumba_controller()
